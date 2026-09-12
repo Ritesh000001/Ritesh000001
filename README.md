@@ -38,23 +38,27 @@
 ---
 
 ### 🔭 Featured Projects
-
-**🔎 [Product Authenticity System (Web + Android)](https://github.com/Ritesh000001/product-authenticity-web)**
+ 
+#### 🔎 [AuthentiScan-QR Based Product Authenticity Verification System](https://github.com/Ritesh000001/product-authenticity-web)
 A two-sided anti-counterfeiting platform: a manufacturer web portal for batch/product creation, QR generation, analytics, and fraud monitoring, paired with a consumer Android app for QR scanning, scratch-code verification, and fake reporting.
-`React.js` `Kotlin` `Firebase` `Android Studio`
-🔗 Live Demo: [AuthentiScan](https://authentiscan-3478a.web.app/)
-
-**🎓 [NextAcademy](https://github.com/Ritesh000001/NextAcademy)**
+ 
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+🔗 **Live Demo:** [AuthentiScan](https://authentiscan-3478a.web.app/)
+ 
+ 
+#### 🎓 [NextAcademy](https://github.com/Ritesh000001/NextAcademy)
 A full-stack e-learning platform with courses, video streaming, secure authentication, and dashboards.
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
-
-
-**🔒 [SecureMe](https://github.com/Ritesh000001/SecureMe)**
+ 
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+ 
+ 
+#### 🔒 [SecureMe](https://github.com/Ritesh000001/SecureMe)
 An offline security tool using OS-level permissions to lock/unlock local folders, with an encrypted password vault and secure notes.
-`Python` `Flask` `HTML` `CSS` `SHA-256`
-
+ 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ 
 ---
 
 ### 📊 GitHub Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh000001&show_icons=true&theme=radical)
+<p align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ritesh000001&layout=compact&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ritesh000001&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Ritesh000001&theme=tokyonight&hide_border=true" /> </p>
