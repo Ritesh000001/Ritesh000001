@@ -61,4 +61,4 @@ An offline security tool using OS-level permissions to lock/unlock local folders
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ritesh000001&layout=compact&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ritesh000001&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Ritesh000001&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ritesh000001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ritesh000001&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Ritesh000001&theme=tokyonight&hide_border=true" /> </p>
